@@ -5,21 +5,24 @@ body {
   
   h1 {
     text-align: center;
+    font-size: 200%;
   }
   
-  h2.intro {
+  h2 {
     font-weight: bold;
+    font-size: 150%;
   }
-  p.intro{
+  p{
     font-style: italic;  
   }
 
-  img.intro{
+  img{
     max-width:200px;
     float: left;
     margin-right: 15px;
   }
 
-  #comment{
+  .comment{
     color: red;
+    font-size: 50%;
   }
