@@ -1,20 +1,22 @@
-body {
-    font-family: Arial;
-    background-color: #FAF1EA;
-  }
-  
-  .show {
+.show {
     height: 100%; 
     width: 160px; 
     position: fixed; 
     z-index: 1; 
     top: 0; 
     left: 0;
-    background-color: #111; 
+    background-color: lightblue; 
     overflow-x: hidden; 
     padding-top: 20px;
   }
-  
+
+  body {
+    font-family: Arial;
+    background-color: #FAF1EA;
+    text-align: right;
+    font-size: medium;
+  }
+   
   h1 {
     text-align: center;
     color: rgb(59, 59, 162)
