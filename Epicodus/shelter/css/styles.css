@@ -7,28 +7,29 @@ body {
     font-size: 40px;
   }
   
+  .profile{
+    background-color: rgb(170,170,200);
+  }
+
   h2 {
     font-weight: bold;
     text-align: left;
   }
-
-  h3{
-    font-style: italic;
+  
+  .animal{
+    display: inline-block;
   }
 
   .name {
     color: darkblue;
-    display: inline;
   }
   
-  .description {
-    display: inline;
+  h3, .description {
     font-style: italic;
   }
 
     img {
     width: 25%;
-    display: inline;
   }
 
   /* FOOTER */
