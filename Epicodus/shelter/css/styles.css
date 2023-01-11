@@ -1,0 +1,52 @@
+body {
+    font-family: sans-serif;
+}
+
+  h1 {
+    text-align: center;
+    font-size: 40px;
+  }
+  
+  h2 {
+    font-weight: bold;
+    text-align: left;
+  }
+
+  h3{
+    font-style: italic;
+  }
+
+  .name {
+    color: darkblue
+  }
+  
+  .description {
+    display: inline;
+    font-style: italic;
+  }
+
+    img {
+    width: 25%;
+    display: inline;
+  }
+
+  /* FOOTER */
+  footer {
+    font-size: 14px;
+  }
+  
+  a {
+    color: black;
+  }
+  
+  a:visited {
+    color: black;
+  }
+  
+  a:hover {
+    color: brown;
+  }
+  
+  a:active {
+    color: brown;
+  }
